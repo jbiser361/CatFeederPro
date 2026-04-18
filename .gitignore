@@ -1,0 +1,9 @@
+build/
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.a
+*.out
+*.log
+.DS_Store
+external/embedded-libs/build/
