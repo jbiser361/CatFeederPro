@@ -1,2 +1,0 @@
-/usr/bin/ar qc libdisplay.a CMakeFiles/display.dir/src/i2c_lcd.cpp.o
-/usr/bin/ranlib libdisplay.a
