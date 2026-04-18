@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdistance.a CMakeFiles/distance.dir/src/hcsr04.cpp.o
+/usr/bin/ranlib libdistance.a

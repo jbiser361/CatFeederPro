@@ -1,0 +1,2 @@
+/usr/bin/ar qc librfid.a CMakeFiles/rfid.dir/src/rc522_reader.cpp.o
+/usr/bin/ranlib librfid.a

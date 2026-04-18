@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/catfeeder.dir/link.d CMakeFiles/catfeeder.dir/src/main.cpp.o -o catfeeder  external/embedded-libs/display/libdisplay.a external/embedded-libs/rfid/librfid.a external/embedded-libs/distance/libdistance.a -lgpiod
